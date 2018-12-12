@@ -1,5 +1,6 @@
 {
   "token": "YOUR_SUPER_SECRET_BOT_TOKEN",
   "prefix": "$",
-  "ownerID": "YOUR_USER_ID"
+  "ownerID": "YOUR_USER_ID",
+  "API": "YOUR_YANDEX_API_KEY"
 }
