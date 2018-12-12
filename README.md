@@ -1,6 +1,7 @@
 # Lenny-Bot
-Lenny bot is a Discord bot that I made just for my private server. But I think, it's good if I share the code to GitHub, also I just want to spend my time for this. I bored so, I made this.
 [![N|Solid](https://nodei.co/npm/discord.js.png?downloads=true&stars=true)](https://www.npmjs.org/package/discord.js)
+
+Lenny bot is a Discord bot that I made just for my private server. But I think, it's good if I share the code to GitHub, also I just want to spend my time for this. I bored so, I made this.
 
 ## Requirements
 - [Node.js](https://nodejs.org/) version 8.x (LTS) recommended.
