@@ -1,0 +1,40 @@
+{
+  "name": "Lenny-Bot",
+  "version": "0.2.5-stable",
+  "description": "A Discord bot.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "^0.0.4",
+    "node-opus": "^0.3.1",
+    "fs": "^0.0.2",
+    "enmap": "^4.5.0",
+    "moment-duration-format": "^2.2.2",
+    "moment": "^2.22.2",
+    "figlet": "^1.2.1",
+    "ytdl-core": "^0.28.1",
+    "jp-conversion": "^0.0.7",
+    "yargs": "^12.0.5",
+    "translate": "^1.0.3",
+    "google-translate-api": "^2.3.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/HungXiao007/Lenny-Bot/"
+  },
+  "author": "HungXiao007",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "discord",
+    "javascript",
+    "js"
+  ]
+}
