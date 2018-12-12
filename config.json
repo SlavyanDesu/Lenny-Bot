@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_SUPER_SECRET_BOT_TOKEN",
+  "prefix": "$",
+  "ownerID": "YOUR_USER_ID"
+}
