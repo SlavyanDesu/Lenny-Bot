@@ -24,12 +24,13 @@
     "google-translate-api": "^2.3.0"
   },
   "engines": {
-    "node": "8.x"
+    "node": "8.x",
+    "npm": "*"
   },
   "repository": {
-    "url": "https://github.com/HungXiao007/Lenny-Bot/"
+    "url": "https://github.com/SlavyanDesu/Lenny-Bot/"
   },
-  "author": "HungXiao007",
+  "author": "SlavyanDesu",
   "license": "MIT",
   "keywords": [
     "node",
