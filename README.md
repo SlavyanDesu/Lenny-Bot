@@ -21,7 +21,7 @@
 ```
 
 ### Executing
-Before you executing the server, make sure you have changed the 'config.json' content properly!
+Before you executing the server, make sure you have changed the `config.json` content properly!
 
 1. Direct node execution.
 ```bash
