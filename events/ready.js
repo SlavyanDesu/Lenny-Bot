@@ -7,12 +7,12 @@ module.exports = (client) => {
     'ball',
     'Nekopara',
     'PLAYERUNKNOWN\'S BATTLEGROUNDS'
-    ];
+  ]
   
   console.log(`${client.user.username} is online!!`);
   
   setInterval(() => {
     const index = Math.floor(Math.random() * Math.floor(activities.length - 1) + 1);
     client.user.setActivity(activities[index]);
-  }, 80000);
-};
+  }, 80000); // Change playing status in 8 minutes
+}
