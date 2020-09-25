@@ -25,4 +25,4 @@ module.exports = async (client, message) => {
   if (cmd && !message.guild && cmd.conf.guildOnly)
     return message.channel.send("This command isn't available on DM.");
   cmd.run(client, message, args);
-};
+}
