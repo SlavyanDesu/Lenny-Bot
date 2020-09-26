@@ -34,6 +34,6 @@ Before you executing the server, make sure you have changed the `config.json` co
 
 ## Author
 **Lenny-Bot** © [SlavyanDesu](https://github.com/SlavyanDesu), released under the MIT License.
-Authored and maintained by HungXiao007.
+Authored and maintained by SlavyanDesu.
 
 > Discord: Slavyan#3475
