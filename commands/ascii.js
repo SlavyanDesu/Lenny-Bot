@@ -6,7 +6,7 @@ exports.run = (client, message, args) => {
       console.log('There is something wrong!');
       console.dir(err);
       return;
-    };
+    }
     message.channel.send("```" + data + "```")
   });
 }
